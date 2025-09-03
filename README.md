@@ -31,3 +31,16 @@ What it is: The buttons, forms, search fields, dropdowns, and other interactive 
 Why it matters: Defines how the product works in practice, not just how it looks.
 
 Example: A “Confirm Booking” button at the end of checkout triggers the payment process, while a filter dropdown on the search page lets users narrow hotel results by price, location, or rating.
+
+# Types of Wireframes
+Wireframes come in different types, each serving specific purposes and offering varying levels of detail. The main types of wireframes are:
+
+### Low-Fidelity Wireframes (Lo-Fi)
+Low-fidelity wireframes are basic and minimalist representations of the user interface. They focus on the layout, structure, and content placement without delving into visual design details.
+
+They are typically created using simple shapes, placeholders, and lines to represent different elements and interactions. They are useful in the early stages of the design process for quick ideation, iteration, and validating the information architecture and user flow.
+
+### High-Fidelity Wireframes (Hi-Fi)
+High-fidelity wireframes are detailed and visually refined representations of the user interface. They closely resemble the final product’s visual design.
+
+Hi-fi wireframes include specific design elements such as colours, fonts, and more accurate representations of content and images. They are useful for presenting a more realistic version of the user interface to stakeholders, conducting user testing with a visually representative prototype, and guiding developers during implementation.
