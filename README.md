@@ -32,7 +32,7 @@ Why it matters: Defines how the product works in practice, not just how it looks
 
 Example: A “Confirm Booking” button at the end of checkout triggers the payment process, while a filter dropdown on the search page lets users narrow hotel results by price, location, or rating.
 
-# Types of Wireframes
+# Types of wireframes
 Wireframes come in different types, each serving specific purposes and offering varying levels of detail. The main types of wireframes are:
 
 ### Low-Fidelity Wireframes (Lo-Fi)
@@ -65,3 +65,8 @@ Several tools make wireframing easier and more efficient, including:
 - Axure: A more advanced tool offering complex interactions and dynamic prototypes.
 
 Among the many wireframing tools available, Figma stands out for its accessibility and collaboration features. Since it runs directly in a web browser, designers can work from any device without worrying about compatibility. Its real-time collaboration allows teams to design together seamlessly, making it ideal for both remote and in-house teams. With its robust wireframing and prototyping features, Figma simplifies the process of moving from initial sketches to interactive designs, all in one platform.
+
+# The benefits of wireframing
+Wireframing is crucial in software development. It allow teams to visualise the conceptual layout and structure of the digital product early in the design process, which helps to identify potential issues and make necessary adjustments before starting the development. 
+
+By acting as a shared reference point, wireframes improve communication between designers, developers and stakeholders. This ensures everyone has a common understanding of the layout, features, and user flow, even if they don’t share the same technical background.
