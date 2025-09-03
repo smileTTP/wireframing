@@ -44,3 +44,10 @@ They are typically created using simple shapes, placeholders, and lines to repre
 High-fidelity wireframes are detailed and visually refined representations of the user interface. They closely resemble the final product’s visual design.
 
 Hi-fi wireframes include specific design elements such as colours, fonts, and more accurate representations of content and images. They are useful for presenting a more realistic version of the user interface to stakeholders, conducting user testing with a visually representative prototype, and guiding developers during implementation.
+
+--
+
+### For example: 
+In [this](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f) wireframe is a high-fidelity wireframe because it is a realistic version of the user interface of an airbnb app.
+
+
