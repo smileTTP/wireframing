@@ -48,6 +48,6 @@ Hi-fi wireframes include specific design elements such as colours, fonts, and mo
 --
 
 ### For example: 
-In [this](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f) wireframe is a high-fidelity wireframe because it is a realistic version of the user interface of an airbnb app.
+[This](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f) is a high-fidelity wireframe because it is a realistic version of the user interface of an airbnb app.
 
 
