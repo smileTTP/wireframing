@@ -50,4 +50,18 @@ Hi-fi wireframes include specific design elements such as colours, fonts, and mo
 ### For example: 
 [This](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f) is a high-fidelity wireframe because it is a realistic version of the user interface of an airbnb app.
 
+# Wireframing tools used by designers
 
+Several tools make wireframing easier and more efficient, including:
+
+- Sketch: A popular macOS tool with extensive plugins.
+
+- Adobe XD: An all-in-one design and prototyping platform.
+
+- Figma: A browser-based, collaborative design tool with powerful wireframing and prototyping features.
+
+- Balsamiq: Known for quick, low-fidelity wireframes with drag-and-drop UI elements.
+
+- Axure: A more advanced tool offering complex interactions and dynamic prototypes.
+
+Among the many wireframing tools available, Figma stands out for its accessibility and collaboration features. Since it runs directly in a web browser, designers can work from any device without worrying about compatibility. Its real-time collaboration allows teams to design together seamlessly, making it ideal for both remote and in-house teams. With its robust wireframing and prototyping features, Figma simplifies the process of moving from initial sketches to interactive designs, all in one platform.
