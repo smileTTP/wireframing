@@ -67,6 +67,14 @@ Several tools make wireframing easier and more efficient, including:
 Among the many wireframing tools available, Figma stands out for its accessibility and collaboration features. Since it runs directly in a web browser, designers can work from any device without worrying about compatibility. Its real-time collaboration allows teams to design together seamlessly, making it ideal for both remote and in-house teams. With its robust wireframing and prototyping features, Figma simplifies the process of moving from initial sketches to interactive designs, all in one platform.
 
 # The benefits of wireframing
-Wireframing is crucial in software development. It allow teams to visualise the conceptual layout and structure of the digital product early in the design process, which helps to identify potential issues and make necessary adjustments before starting the development. 
+Wireframing is crucial in software development. It prioritises user experience and information architecture over visual aesthetics. It allow teams to visualise the conceptual layout and structure of the digital product early in the design process, which helps to identify potential issues and make necessary adjustments before starting the development. 
 
 By acting as a shared reference point, wireframes improve communication between designers, developers and stakeholders. This ensures everyone has a common understanding of the layout, features, and user flow, even if they don’t share the same technical background.
+
+# Real-World scenario example
+
+While designing a hotel booking app, some team members noticed during the wireframing stage that the checkout process was too complex, requiring too many steps to complete a booking.
+
+They simplified the flow into two clear steps before any coding began. When tested with users, the new design was faster, easier to use and significantly reduced drop-offs.
+
+This shows how wireframing helps teams spot and fix usability issues early, leading to a smoother, more user-friendly final product.
